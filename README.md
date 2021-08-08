@@ -6,7 +6,7 @@ For this course I used WebStorm (a popular IDE from JetBrains) to edit, build an
 ## Setting up a Development Environment
 
 1. Install WebStorm via https://www.jetbrains.com/webstorm/download/ (there is a 30 day free evaluation)
-2. Select New Project and choose React App.  In the Location field, type over the 'untitled' text to give your new project the name  e.g. 'tryout-react' (note: it has to be in lower case).  Select the Create TypeScript Project checkbox.
+2. Select New Project and choose React App.  In the Location field, type over the 'untitled' text to give your new project the name  e.g. 'react-rollercoaster' (note: it has to be in lower case).  Select the Create TypeScript Project checkbox.
 
 Click on Create. This will download and install NodeJS and setup a simple react project.
 
